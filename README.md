@@ -4,8 +4,7 @@
 This is a simple project part of my course assignment where I mapped my theoritical understanding of Object Oriented Design to real world. 
 
 Design Flow:
-1. Identifying Classes was one of the important task.
-I have used 4 classes Assignment(Main), BMIAnalyser, View, Record.
+1. Identifying Classes was one of the important task. I have used 4 classes Assignment(Main), BMIAnalyser, View, Record.
 
 2. Undertanding each class functionality and relationship between the classes
 
